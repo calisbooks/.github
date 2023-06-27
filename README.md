@@ -1,2 +1,3 @@
 # .github
-✨special ✨
+
+Global Templates
